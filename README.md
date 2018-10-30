@@ -2,8 +2,8 @@
 
 There has been a trend for cloud based applications to show the Delete and Edit
 buttons in the grid. So a quick search on the net revealed that very little
-information on how to create a Styled Working Button in a Standard VCL DBGrid.
-So here is a development prototype that could be implemented in your
+information on how to create a Styled Working Button in a Standard VCL DBGrid is
+found. So here is a development prototype that could be implemented in your
 application.
 
 How should this Styled Button appear and function in the DBGrid:-
